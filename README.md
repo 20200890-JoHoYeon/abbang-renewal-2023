@@ -4,7 +4,7 @@ Personal Side Project for React Native Learning :flushed:
 
 # abbang-renewal Project Results ❗ :exclamation:
  
-1. abbang-renewal = Incomplete :pushpin: <br />
+abbang-renewal = Incomplete :pushpin: <br />
 
 ## Development Story :question:
 
